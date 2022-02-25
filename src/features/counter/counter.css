@@ -1,0 +1,13 @@
+button {
+  margin: 5px;
+  padding: 10px;
+  font-weight: bold;
+  background: cornflowerblue;
+}
+
+span {
+  margin: 5px;
+  font-weight: bold;
+  line-height: 2em;
+  width: 80px;
+}
